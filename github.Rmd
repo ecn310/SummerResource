@@ -1,0 +1,40 @@
+# GitHub
+
+GitHub is the platform we use in ECN 310 to communicate with each other; to store the code, data, and other files used for the team research project; and to submit assignments. GitHub is a widely used platform (over 100 million users), especially by those who work on and share code. On GitHub, you can work in different “repositories,” which are spaces for users to work on one project. For example, your research project will have its own repository where your team members, Professor Buzard, and the TA will collaborate.
+
+When writing a post on GitHub, you will use something called GitHub-flavored markdown to format your post. Markdown language consists of typed short commands, like pound signs or underscores, for formatting. Instead of clicking a button that would bold a portion of text, you would surround it with two asterisks, \*\*like so.\*\*
+
+## GitHub-Flavored Markdown
+
+Here is a list of markdown commands. You can look through them to see how different commands are used to produce different formatting. You can also test out the commands in the GitHub-flavored markdown sandbox. On the left side of the sandbox is where you can type out commands and text and the right side will show you what each command does.You can test out the different commands from the list and see what they do. 
+
+If you’re going to try out any one thing before class starts, this is the one to try! It’s an easy introduction to how coding works, and we will use it every day in class assignments.
+
+**WANT SANDBOX SCREENSHOT HERE**
+
+## Joining GitHub
+
+If you want to join GitHub and test out your markdown skills there, you can use the link below and follow these instructions:
+
+1. Go to https://github.com/signup
+2. Enter your username, email, and password. Please choose a clear and professional username, as this is the account you will use in class. For example, Professor Buzard’s username is **@kbuzard**, simply her first initial and last name.
+3. Solve the puzzle and click “Create account”
+4. Follow instructions to verify email address
+
+## More On Using GitHub
+
+Once you have signed up to become a GitHub user, you can navigate through its different tools to get an understanding of its purpose. If you want to view an example of a repository from a past ECN 310 team, you can refer to the course-project-zipcentercrime repository and follow along with the guide below. The homepage of a repository, called the “Code” tab, is where you can see all of the files being stored on the repository. Many repositories will also have a “README” at the bottom of the homepage. This tells users what the repository’s purpose is.
+
+Other important tabs of a repository are “Issues” and “Discussions.” These are places for repository users to discuss the work being done for their project and interact on the tasks at hand. You will use GitHub-flavored markdown to write posts on both issues and discussion. Users can also be assigned to issues in a repository, so that users know which members are working on each task. Once the tasks related to that issue are finished, the issue can be “closed,” and the issue can also be re-opened as needed.
+
+When you are on a repository’s homepage, you can see beneath the repository’s name (on the top left) a button that says “main.” This refers to which “branch” of the repository you are viewing. Branches are made by users in order to make changes to files in the repository without affecting the main version’s files. Branches are safe workplaces to experiment that let you work independently, but on the same repository.
+
+Once the changes on a branch have been made, the user can open a “pull request.” This allows you to propose the changes from a branch to be merged into the main branch. Then, the changes can be viewed and edited before being approved. Pull requests help ensure that code is reviewed and tested before they become part of the main project, which is especially important when working on a team.
+
+Another aspect of GitHub that we use in ECN 310 is called GitHub Desktop. Until now, you have only been viewing a repository from GitHub’s website, where you can view all the files, communication spaces, and pull requests. But, when using the GitHub Desktop app synced to your computer, you can open and edit all of a repository’s files. Then, you can “push” the changes to GitHub’s website, and those changes will be shown for each user of the repository. We recommend that you wait to download and experiment with GitHub Desktop until in-person in ECN 310. While incredibly useful, setting up GitHub Desktop sometimes presents unique challenges for each person/computer. In class, Professor Buzard and the TA can help to solve these issues.
+
+
+
+
+
+

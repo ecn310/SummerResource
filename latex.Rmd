@@ -1,0 +1,27 @@
+# LaTeX
+
+Similar to GitHub flavored markdown used for posts on GitHub, LaTeX is a markup language that is used to write documents in a very organized manner by typing short commands. LaTeX commands are more customizable and are longer than GitHub flavored markdown commands. In ECN 310, we use the LaTeX markup language to write the final paper. The platform in which we write LaTeX documents is a free website called Overleaf. LaTeX is the language and gives commands on what the document should look like,  and Overleaf is the system used to understand the language and produce the document.
+
+Here’s an example of how Github-flavored markdown and LaTeX compare: 
+
+- In GitHub, text is italicized by placing underscores around it, **\_like so\_**
+- But in LaTeX, text is italicized by using a command **\\textit\{like so\}**
+
+There are also commands that are used to structure the document. If an author wanted the document to have a section header called “Introduction”, the author would use the following command: **\\section\{Introduction\}**
+
+You can read through this explainer from Overleaf on how LaTeX is used to structure and format documents to make them polished and professional. If you want to test out using LaTeX, you can use this LaTeX sandbox to experiment with creating simple documents.
+
+You can also make an account on Overleaf and view templates to see how LaTeX used in Overleaf creates well-formatted documents. To join Overleaf, click on this link and sign up! You can use a personal or school email.
+
+Once you are registered for Overleaf, you can see how LaTeX commands form a document by looking at the templates that Overleaf provides. These may look long and complex, but these files become manageable once you start working with them. There are also plenty of resources on the web that can help you figure out what commands mean and where to use them. If you have a question, we suggest two options for getting it answered:
+
+1. Look in the Overleaf documentation (https://www.overleaf.com/learn)
+2. Put your question in either Google or your favorite AI companion (both ChatGPT and claude.ai work well for these kinds of questions). This is good practice–you’ll often use these tools in the process of learning to code for ECN 310.
+
+When you begin making your own LaTeX file in Overleaf for your course project, you will start with a template provided by Professor Buzard. You can view it with this link. As you can see in the ECN 310 template, the document does not start out with too many commands. When building and writing your project, you will use more LaTeX commands to add features to your paper, such as tables and figures. (Ryan: what do you think about putting a link to the zipcentercrime .tex file here – too overwhelming?)
+
+
+
+
+
+kbuzard@gmail.com I don’t have the project template. Could you please provide a link here?

@@ -12,3 +12,11 @@ course-project-and-skills
 research-tools
 technical-skills
 soft-skills
+github
+github-1
+github-flavored-markdown
+joining-github
+more-on-using-github
+latex
+latex-1
+stata

@@ -1,0 +1,9 @@
+# Stata
+
+There are many different coding languages used to handle and analyze data. You have probably heard of some, like Python, R, SQL, Java, and more. In ECN 310, we use a coding language and platform called Stata. We choose to use Stata because it is a preference among many economists and will prepare you for further economic research opportunities.
+
+Stata is the name for both the commands used to tell the computer what to do (the coding language, like LaTeX), and it is the name for the system used to understand the commands and perform actions (like Overleaf). Many actions can be performed in Stata either by typing out commands or by using a point-and-click interface, meaning that you can also click buttons to perform analyses and make data visualizations.
+
+If you want to get a feel for how Stata works, you can access it through Syracuse University’s Remote Desktop Service (RDS). Stata is a proprietary language, meaning that it must be paid for to use it. The university pays for access to Stata, but you must access it through a university computer, which can either be through the RDS on your own computer, or on a desktop computer in a university building (Bird Library, for example). 
+
+To access the RDS through your browser, go to rds.syr.edu. Then, sign in using your university email and password like you would to access MySlice. Detailed instructions can be found here. Once you are on the RDS, you can search for the Stata app.
