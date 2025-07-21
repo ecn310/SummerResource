@@ -30,9 +30,9 @@ Once students complete this course, they will have expanded their skills so that
 
 ### Research Tools
 
-- **GitHub** is the software used in this course that helps us communicate, document, and organize the research process. We can store files with code and data for our own records and to share with others. We can discuss the latest updates in our research. We can also keep track of the research process. When we write something on GitHub, we use Markdown, which means we use short commands to format our writing. More on this in Section \@ref(sec:github).
-- **LaTeX** is a tool that helps you write documents, especially ones with math and figures, in a neatly formatted way. Instead of clicking buttons to make text bold or add equations like in Word or Docs, you type short commands that tell the computer how you want the document to look. You give the computer instructions for how your paper should appear, and then it puts the whole document together for you. More on this in Section \@ref(sec:latex).
-- **Stata** is a powerful app with a user-friendly interface that is used widely by researchers in economics, sociology, political science, and public health. We will use it extensively for data management, analysis, and visualization. More on this in Section \@ref(sec:stata).
+- **GitHub** is the software used in this course that helps us communicate, document, and organize the research process. We can store files with code and data for our own records and to share with others. We can discuss the latest updates in our research. We can also keep track of the research process. When we write something on GitHub, we use Markdown, which means we use short commands to format our writing. [See more in the GitHub section](#github-section).
+- **LaTeX** is a tool that helps you write documents, especially ones with math and figures, in a neatly formatted way. Instead of clicking buttons to make text bold or add equations like in Word or Docs, you type short commands that tell the computer how you want the document to look. You give the computer instructions for how your paper should appear, and then it puts the whole document together for you. [See more in the LaTeX section](#latex-section).
+- **Stata** is a powerful app with a user-friendly interface that is used widely by researchers in economics, sociology, political science, and public health. We will use it extensively for data management, analysis, and visualization. [See more in the Stata section](#stata-section).
 
 
 ### Technical Skills

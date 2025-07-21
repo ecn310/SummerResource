@@ -1,4 +1,4 @@
-# Stata {#sec:stata}
+# Stata {#stata-section}
 
 There are many different coding languages used to handle and analyze data. You have probably heard of some, like Python, R, SQL, Java, and more. In ECN 310, we use a coding language and platform called Stata. We choose to use Stata because it is a preference among many economists and will prepare you for further economic research opportunities.
 

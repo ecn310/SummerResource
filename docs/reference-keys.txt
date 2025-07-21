@@ -6,9 +6,9 @@ technical-skills
 soft-skills
 course-purpose-and-benefits
 what-you-can-do-now
-sec:github
+github-section
 github-flavored-markdown
 joining-github
 more-on-using-github
-sec:latex
-sec:stata
+latex-section
+stata-section

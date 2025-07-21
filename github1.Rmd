@@ -1,4 +1,4 @@
-# GitHub {#sec:github}
+# GitHub {#github-section}
 
 GitHub is the platform we use in ECN 310 to communicate with each other; to store the code, data, and other files used for the team research project; and to submit assignments. GitHub is a widely used platform (over 100 million users), especially by those who work on and share code. On GitHub, you can work in different “repositories,” which are spaces for users to work on one project. For example, your research project will have its own repository where your team members, Professor Buzard, and the TA will collaborate.
 

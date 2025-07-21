@@ -1,4 +1,4 @@
-# LaTeX {#sec:latex}
+# LaTeX {#latex-section}
 
 Similar to GitHub flavored markdown used for posts on GitHub, LaTeX is a markup language that is used to write documents in a very organized manner by typing short commands. LaTeX commands are more customizable and are longer than GitHub flavored markdown commands. In ECN 310, we use the LaTeX markup language to write the final paper. The platform in which we write LaTeX documents is a free website called Overleaf. LaTeX is the language and gives commands on what the document should look like,  and Overleaf is the system used to understand the language and produce the document.
 
