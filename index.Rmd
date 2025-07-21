@@ -30,9 +30,10 @@ Once students complete this course, they will have expanded their skills so that
 
 ### Research Tools
 
-- **GitHub** is the software used in this course that helps us communicate, document, and organize the research process. We can store files with code and data for our own records and to share with others. We can discuss the latest updates in our research. We can also keep track of the research process. When we write something on GitHub, we use Markdown, which means we use short commands to format our writing. More on this here/below! 
-- **Stata** is a powerful app with a user-friendly interface that is used widely by researchers in economics, sociology, political science, and public health. We will use it extensively for data management, analysis, and visualization. More on this here!
-- **LaTeX** is a tool that helps you write documents, especially ones with math and figures, in a neatly formatted way. Instead of clicking buttons to make text bold or add equations like in Word or Docs, you type short commands that tell the computer how you want the document to look. You give the computer instructions for how your paper should appear, and then it puts the whole document together for you.
+- **GitHub** is the software used in this course that helps us communicate, document, and organize the research process. We can store files with code and data for our own records and to share with others. We can discuss the latest updates in our research. We can also keep track of the research process. When we write something on GitHub, we use Markdown, which means we use short commands to format our writing. More on this in Section \@ref(sec:github).
+- **LaTeX** is a tool that helps you write documents, especially ones with math and figures, in a neatly formatted way. Instead of clicking buttons to make text bold or add equations like in Word or Docs, you type short commands that tell the computer how you want the document to look. You give the computer instructions for how your paper should appear, and then it puts the whole document together for you. More on this in Section \@ref(sec:latex).
+- **Stata** is a powerful app with a user-friendly interface that is used widely by researchers in economics, sociology, political science, and public health. We will use it extensively for data management, analysis, and visualization. More on this in Section \@ref(sec:stata).
+
 
 ### Technical Skills
 
@@ -57,7 +58,7 @@ This course prepares students to succeed in the methods courses they will encoun
 **Economics Degrees Beyond Undergrad**
 
 Students interested in graduate school will be better prepared by learning about the fundamentals of research. Most graduate degrees–most Master’s and all Phds–involve a significant research portion. By taking ECN 310, you can build up research skills that will be helpful in graduate school. You can also build your research portfolio so that graduate schools can see you have research experience.
-If you are interested in earning a Master’s degree in Economics, Syracuse University offers an accelerated program with the B.S. track. More on this (here).
+If you are interested in earning a Master’s degree in Economics, Syracuse University offers an accelerated program with the B.S. track. More on this [here](https://courses.syracuse.edu/graduate/programs/economics-bs-ma/).
 
 **Research Careers**
 
