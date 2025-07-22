@@ -9,7 +9,14 @@ Here’s an example of how Github-flavored markdown and LaTeX compare:
 
 There are also commands that are used to structure the document. If an author wanted the document to have a section header called “Introduction”, the author would use the following command: **\\section\{Introduction\}**
 
+## Practice LaTeX
+
 You can read through this [explainer](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) from Overleaf on how LaTeX is used to structure and format documents to make them polished and professional. If you want to test out using LaTeX, you can use this [LaTeX sandbox](https://latex-sandbox.vercel.app/) to experiment with creating simple documents.
+
+<img src="latex_sandbox.png" style="border: 1px solid black; border-radius: 8px; box-shadow: 2px 2px 6px #888; max-width: 100%;" alt="LaTeX Sandbox Screenshot">
+
+
+## Join and Experiment with Overleaf
 
 You can also make an account on Overleaf and view templates to see how LaTeX used in Overleaf creates well-formatted documents. To join Overleaf, click on this [link](https://www.overleaf.com/register) and sign up! You can use a personal or school email.
 

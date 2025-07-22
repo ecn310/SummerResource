@@ -6,4 +6,71 @@ Stata is the name for both the commands used to tell the computer what to do (th
 
 If you want to get a feel for how Stata works, you can access it through Syracuse University’s Remote Desktop Service (RDS). Stata is a proprietary language, meaning that it must be paid for to use it. The university pays for access to Stata, but you must access it through a university computer, which can either be through the RDS on your own computer, or on a desktop computer in a university building (Bird Library, for example). 
 
-To access the RDS through your browser, go to rds.syr.edu. Then, sign in using your university email and password like you would to access MySlice. Detailed instructions can be found here. Once you are on the RDS, you can search for the Stata app.
+To access the RDS through your browser, go to http://rds.syr.edu. Then, sign in using your university email and password like you would to access MySlice. Detailed instructions from the university can be found [here](https://answers.atlassian.syr.edu/wiki/spaces/ITHELP/pages/159941285/Remote+Desktop+Services+via+Browser). Once you are on the RDS, you can search for the Stata app.
+
+## Stata Basics
+
+When opening the Stata app, you will see five panels (and a bar at the bottom). These carry information on the data you work with in Stata and how you interact with it.
+
+<img src="stata_panels.png" style="border: 1px solid black; border-radius: 8px; box-shadow: 2px 2px 6px #888; max-width: 100%;" alt="Stata Panels">
+
+1. The Command panel at the bottom is where you type out commands to the computer. Remember: you communicate to the computer by writing in the Stata programming language, and the computer receives commands and reports back to you in the Stata app. In the command window, you type out commands and send them by pressing the “Enter” or “Return” button on your keyboard. 
+2. The "Results" window in the center displays the results of your commands. 
+3. The “History” window on the left shows you a history of previously sent commands. 
+4. The “Variables” window lists the variables in your current dataset. Right now it's empty since no dataset is loaded. 
+5. The “Properties” window shows detailed information about the dataset and selected variables. 
+6. The file path bar at the bottom shows the location on your computer where you are reading files from.
+
+## Stata Exercise
+
+If you want to test out how Stata works, follow along for this brief exercise.
+
+1. In the Command window, type out `sysuse census`. You can also copy and paste the words between the apostrophes (excluding the apostrophes) into the command window. Then press Enter on your keyboard.
+
+As you can see, this loads in a dataset called “census”. This dataset contains 1980 U.S. Census data aggregated to the state level. In the Variables window, you can see the names and labels of the variables. A variable called “state” is the first one, followed by “state2”, “region”, “pop”, and more. You can also see in the History window that the command you just typed is stored there.
+
+2. Next, type `browse` into your command window and hit enter.
+
+This will open up another window where you can view all of the data currently loaded into Stata. You can look around to see what’s interesting and exit the window when you are done.
+
+3. Type in `list in 1/3` into the Command window and hit enter.
+
+This shows the first three state’s values for each of the variables. You can see that the command tells Stata to make a list of the first three observations. The language of many commands is similar to this, where you type in abbreviated or short-hand English.
+
+4. Type `summarize pop` into the Command window and hit enter.
+
+In the Results window, you will see that you get information on the `pop` variable, like how many observations there are, the average (or mean), the standard deviation, and minimum and maximum values.
+
+5. Type `scatter death marriage` into the Command window and hit enter.
+
+This should display a scatterplot of each state’s number of deaths and number of marriages values. Each dot represents one state. You can exit this window when you are done viewing it. Note that it will not save anywhere (but you can re-create it with the same command later).
+
+So far, we have just viewed the data. We can also edit it. Let’s create a new variable. Right now, the `pop` variable shows the number of people in each state. We can create a variable that will show how many million people live in each state.
+
+6. Type `generate pop_millions = pop / 1000000` and hit enter.
+7. Then type `label variable pop_millions "Population in millions"` and hit enter. 
+
+You can now see in the Variables window that you have a new variable called “pop_millions” that is labeled with “Population in millions”. You can type “summarize pop_millions” to confirm that you have made this new variable and see that the average population of each state in 1980, in millions, is about 4.5.
+
+8. When you are done experimenting in Stata, you can simply close out of the Stata window.
+
+
+
+## Learning More on Stata
+
+If you want to learn more about how we use Stata and what we use it for, you can refer to the links and textbook sections below. These include helpful information on Stata basics, how to save your work, and how to view, edit, and analyze data. We encourage you to follow along with the exercises given in the book (then we also need instructions on how to get the datasets, which may be too complicated to get up and running for tomorrow.)
+
+^ Can I link to PDFs of some of these sections in here? Also, where would you like the portion on quiz prep? Referenced somewhere in here with the textbooks or in its own section?
+
+**Sections from GitHub:**
+
+- Sept 10: Daniels & Minot, Ch. 4: An Introduction to Stata, p. 43--47, bottom 53--top 54
+E book available at: first link pasted (DID NOT WORK ANYMORE ON 7/17/25; TRY second link pasted)
+- Oct 1: Daniels & Minot, Ch. 4, Section 4.5 Using Log Files and Saving Your Work; Daniels & Minot, Ch. 5, Sections 5.1 and 5.2 Cleaning Data and Checking for Outliers,
+- Oct 22: Creating New Variables, Daniels & Minot Section 5.3
+- Oct 24: Combining datasets (Stata Manual & Notre Dame Hesbergh Library)
+- Oct 29: Descriptive Statistics, Daniels & Minot, pp. 75-80 and 96-101
+- Nov 5: Descriptive Statistics, Daniels & Minot, pp. 81-90
+
+
+kbuzard@gmail.com I will copy and paste the links for when I am making the actual files that will be sent out. Also, in the exercise, I just focused on some of the basics of how Stata interacts with data. Do you want something that is saveable, like working with a do file or log file? If so, I will fill in the purple text at the end of Stata Exercise.

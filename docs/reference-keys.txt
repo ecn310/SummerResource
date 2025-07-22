@@ -11,4 +11,9 @@ github-flavored-markdown
 joining-github
 more-on-using-github
 latex-section
+practice-latex
+join-and-experiment-with-overleaf
 stata-section
+stata-basics
+stata-exercise
+learning-more-on-stata
