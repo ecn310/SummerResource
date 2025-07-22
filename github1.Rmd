@@ -6,11 +6,11 @@ When writing a post on GitHub, you will use something called GitHub-flavored mar
 
 ## GitHub-Flavored Markdown
 
-Here is a list of markdown commands. You can look through them to see how different commands are used to produce different formatting. You can also test out the commands in the GitHub-flavored markdown sandbox. On the left side of the sandbox is where you can type out commands and text and the right side will show you what each command does.You can test out the different commands from the list and see what they do. 
+[Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a list of markdown commands. You can look through them to see how different commands are used to produce different formatting. You can also test out the commands in the [GitHub-flavored markdown sandbox](https://jbt.github.io/markdown-editor/). On the left side of the sandbox is where you can type out commands and text and the right side will show you what each command does.You can test out the different commands from the list and see what they do. 
+
+![**Example: GitHub Flavored Markdown Sandbox**](markdownsandbox.png)
 
 If you’re going to try out any one thing before class starts, this is the one to try! It’s an easy introduction to how coding works, and we will use it every day in class assignments.
-
-**WANT SANDBOX SCREENSHOT HERE**
 
 ## Joining GitHub
 
@@ -23,7 +23,7 @@ If you want to join GitHub and test out your markdown skills there, you can use 
 
 ## More On Using GitHub
 
-Once you have signed up to become a GitHub user, you can navigate through its different tools to get an understanding of its purpose. If you want to view an example of a repository from a past ECN 310 team, you can refer to the course-project-zipcentercrime repository and follow along with the guide below. The homepage of a repository, called the “Code” tab, is where you can see all of the files being stored on the repository. Many repositories will also have a “README” at the bottom of the homepage. This tells users what the repository’s purpose is.
+Once you have signed up to become a GitHub user, you can navigate through its different tools to get an understanding of its purpose. If you want to view an example of a repository from a past ECN 310 team, you can refer to the [course-project-zipcentercrime](https://github.com/ecn310/course-project-zipcentercrime) repository and follow along with the guide below. The homepage of a repository, called the “Code” tab, is where you can see all of the files being stored on the repository. Many repositories will also have a “README” at the bottom of the homepage. This tells users what the repository’s purpose is.
 
 Other important tabs of a repository are “Issues” and “Discussions.” These are places for repository users to discuss the work being done for their project and interact on the tasks at hand. You will use GitHub-flavored markdown to write posts on both issues and discussion. Users can also be assigned to issues in a repository, so that users know which members are working on each task. Once the tasks related to that issue are finished, the issue can be “closed,” and the issue can also be re-opened as needed.
 
