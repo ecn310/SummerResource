@@ -54,23 +54,26 @@ You can now see in the Variables window that you have a new variable called “p
 
 8. When you are done experimenting in Stata, you can simply close out of the Stata window.
 
+Note that when you close out of the Stata window, none of the data or work you did will be saved. For now, that is okay. Saving your work can become tricky when working with Stata, GitHub, and multiple different files of data and code. We will practice this together in class.
+
 
 
 ## Learning More on Stata
 
 If you want to learn more about how we use Stata and what we use it for, you can refer to the links and textbook sections below. These include helpful information on Stata basics, how to save your work, and how to view, edit, and analyze data. We encourage you to follow along with the exercises given in the book (then we also need instructions on how to get the datasets, which may be too complicated to get up and running for tomorrow.)
 
-^ Can I link to PDFs of some of these sections in here? Also, where would you like the portion on quiz prep? Referenced somewhere in here with the textbooks or in its own section?
 
-**Sections from GitHub:**
+**Helpful Chapters on Stata**
 
-- Sept 10: Daniels & Minot, Ch. 4: An Introduction to Stata, p. 43--47, bottom 53--top 54
-E book available at: first link pasted (DID NOT WORK ANYMORE ON 7/17/25; TRY second link pasted)
-- Oct 1: Daniels & Minot, Ch. 4, Section 4.5 Using Log Files and Saving Your Work; Daniels & Minot, Ch. 5, Sections 5.1 and 5.2 Cleaning Data and Checking for Outliers,
-- Oct 22: Creating New Variables, Daniels & Minot Section 5.3
-- Oct 24: Combining datasets (Stata Manual & Notre Dame Hesbergh Library)
-- Oct 29: Descriptive Statistics, Daniels & Minot, pp. 75-80 and 96-101
-- Nov 5: Descriptive Statistics, Daniels & Minot, pp. 81-90
+You can access the Daniels & Minot textbook through Syracuse University's online library with this [link](https://research-ebsco-com.libezproxy2.syr.edu/c/gvriom/search/details/qcsbnwmqtn?db=nlebk).
 
 
-kbuzard@gmail.com I will copy and paste the links for when I am making the actual files that will be sent out. Also, in the exercise, I just focused on some of the basics of how Stata interacts with data. Do you want something that is saveable, like working with a do file or log file? If so, I will fill in the purple text at the end of Stata Exercise.
+1. Daniels & Minot, Ch. 4: An Introduction to Stata, p. 43--47, bottom 53--top 54
+2. Daniels & Minot, Ch. 4, Section 4.5 Using Log Files and Saving Your Work
+3. Daniels & Minot, Ch. 5, Section 5.1: Cleaning Data
+4. Daniels & Minot, Ch. 5, Section 5.2: Checking for Outliers
+5. Daniels & Minot, Ch. 5, Section 5.3: Creating New Variables
+6. [Stata Manual & Notre Dame Hesbergh Library](https://www.stata.com/manuals/u23.pdf): Combining datasets
+7. Daniels & Minot, pp. 75-90 and 96-101: Descriptive Statistics
+
+In ECN 310, you will do a short reading before each class (often from the aforementioned texts), and you will be asked to complete a reading quiz on Blackboard. But, you get to know the exact questions that will be on the quiz! This is because Professor Buzard gives you a "quiz prep" document on Blackboard that contains each of the questions, so you can mark down the answers as you read. For your first class, you will be asked to read part of [Chapter 1 of Greenlaw](greenlaw_ch1.pdf) and of [Chapter 1 of Remler & Van Ryzin](remler&vanryzin_ch1.pdf). You can reference the first class [quiz prep document](ecn310_class1_quizprep.pdf).
