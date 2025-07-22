@@ -5,7 +5,7 @@ edit: https://github.com/ecn310/SummerResource/edit/main/%s
 view: https://github.com/ecn310/SummerResource/blob/main/%s
 language:
   ui:
-    chapter_name: "Section "
+    chapter_name: ""
 rmd_files:
   - index.Rmd
   - github1.Rmd
