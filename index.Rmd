@@ -1,5 +1,5 @@
 --- 
-title: "ECN 310 Summer Resource"
+title: "Economic Research in Practice (ECN 310) Summer Resource"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
@@ -32,7 +32,7 @@ Once students complete this course, they will have expanded their skills so that
 
 - **GitHub** is the software used in this course that helps us communicate, document, and organize the research process. We can store files with code and data for our own records and to share with others. We can discuss the latest updates in our research. We can also keep track of the research process. When we write something on GitHub, we use Markdown, which means we use short commands to format our writing. [See more in the GitHub section](#github-section).
 - **LaTeX** is a tool that helps you write documents, especially ones with math and figures, in a neatly formatted way. Instead of clicking buttons to make text bold or add equations like in Word or Docs, you type short commands that tell the computer how you want the document to look. You give the computer instructions for how your paper should appear, and then it puts the whole document together for you. [See more in the LaTeX section](#latex-section).
-- **Stata** is a powerful app with a user-friendly interface that is used widely by researchers in economics, sociology, political science, and public health. We will use it extensively for data management, analysis, and visualization. [See more in the Stata section](#stata-section).
+- **Stata** is a powerful app with a user-friendly interface that is used widely by researchers in economics, sociology, political science, public health, and more. We will use it extensively for data management, analysis, and visualization. [See more in the Stata section](#stata-section).
 
 
 ### Technical Skills
@@ -66,12 +66,12 @@ Many careers, within economics and beyond, rely on research. ECN 310 will give y
 
 ## What You Can Do Now
 
-ECN 310 is designed to be accessible to students with zero coding and research experience. That means you are not required or expected to do anything with this information before starting ECN 310.
+ECN 310 is designed to be accessible to students with zero coding or research experience. That means you are not required or expected to do anything with this information before starting ECN 310.
 
-At the same time, here we provide some resources so you can get comfortable with the tools we use in ECN 310. The easiest first step is to learn about Markdown (instructions here, link to GitHub explainer), which is a set of commands we will use to format text on Github.
+At the same time, here we provide some resources so you can get comfortable with the tools we use in ECN 310 if you want to. The easiest first step is to learn about Markdown (instructions [here](https://ecn310.github.io/SummerResource/github-section.html#github-flavored-markdown)), which is a set of commands we will use to format text on Github.
 
-You could also put your Markdown skills to work by accessing Github (instructions here), although you may not see most of the benefits of Github until we start using it for collaboration once class starts. 
+You could also put your Markdown skills to work by accessing Github (instructions [here](https://ecn310.github.io/SummerResource/github-section.html#joining-github)), although you may not see most of the benefits of Github until we start using it for collaboration once class starts. 
 
-If you like that and want to go a step further, you can try out LaTeX (instructions here). LaTeX does a lot of the same things as Markdown, but it can do lots more. That is why we use it to write the final papers! These commands are a little more complex than ones used on GitHub. 
+If you like that and want to go a step further, you can try out LaTeX (instructions [here](https://ecn310.github.io/SummerResource/latex-section.html#latex-section)). LaTeX does a lot of the same things as Markdown, but it can do much more. That is why we use it to write the final papers! These commands are a little more complex than ones used on GitHub. 
 
-Another possibility is to start experimenting withStata. There are instructions (here) to get access to the app, and (here) to follow the textbook we'll use this fall to try out some of what Stata can do.
+Another possibility is to start experimenting with Stata. There are instructions ([here](https://ecn310.github.io/SummerResource/stata-section.html)) to get access to the app, and (here) to follow the textbook we'll use this fall to try out some of what Stata can do.
