@@ -2,6 +2,10 @@
 title: "Economic Research in Practice (ECN 310) Summer Resource"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+language:
+  ui:
+    edit: "Edit"
+    chapter_name: ""
 ---
 
 # Course Overview
