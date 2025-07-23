@@ -60,20 +60,13 @@ Note that when you close out of the Stata window, none of the data or work you d
 
 ## Learning More on Stata
 
-If you want to learn more about how we use Stata and what we use it for, you can refer to the links and textbook sections below. These include helpful information on Stata basics, how to save your work, and how to view, edit, and analyze data. We encourage you to follow along with the exercises given in the book (then we also need instructions on how to get the datasets, which may be too complicated to get up and running for tomorrow.)
+For now, we recommend that you pause here in learning Stata. More instruction will be coming soon on how you can use one of the course textbooks, _An Introduction to Statistics and Data Analysis Using Stata® : From Research Design to Final Report_, authored by Lisa Daniels and Nicholas Minot. The textbook can be viewed online through Syracuse University's online library [here](https://research-ebsco-com.libezproxy2.syr.edu/c/gvriom/search/details/qcsbnwmqtn?db=nlebk). 
 
+In ECN 310, you will do a short reading before each class (like from the Daniels & Minot textbook), and you will be asked to complete a reading quiz on Blackboard. But, you get to know the exact questions that will be on the quiz! This is because Professor Buzard gives you a "quiz prep" document on Blackboard that contains each of the questions, so you can mark down the answers as you read. Here are two example quiz prep documents that ask you to read a portion of the Daniels & Minot textbook and interact with the reading. You can view the quiz prep documents for the [Introduction to Stata](/Users/ryanseely/Documents/GitHub/SummerResource/d&m_intro_stata_quizprep.pdf) and [Data Cleaning & Checking for Outliers](/Users/ryanseely/Documents/GitHub/SummerResource/d&m_cleaningdata_outliers_quizprep.pdf) sections of Daniels & Minot. 
 
-**Helpful Chapters on Stata**
+If you want to mimic what you would do in class, you can...
 
-You can access the Daniels & Minot textbook through Syracuse University's online library with this [link](https://research-ebsco-com.libezproxy2.syr.edu/c/gvriom/search/details/qcsbnwmqtn?db=nlebk).
+1. Read the textbook section
+2. Answer the questions on the quiz prep as you read
 
-
-1. Daniels & Minot, Ch. 4: An Introduction to Stata, p. 43--47, bottom 53--top 54
-2. Daniels & Minot, Ch. 4, Section 4.5 Using Log Files and Saving Your Work
-3. Daniels & Minot, Ch. 5, Section 5.1: Cleaning Data
-4. Daniels & Minot, Ch. 5, Section 5.2: Checking for Outliers
-5. Daniels & Minot, Ch. 5, Section 5.3: Creating New Variables
-6. [Stata Manual & Notre Dame Hesbergh Library](https://www.stata.com/manuals/u23.pdf): Combining datasets
-7. Daniels & Minot, pp. 75-90 and 96-101: Descriptive Statistics
-
-In ECN 310, you will do a short reading before each class (often from the aforementioned texts), and you will be asked to complete a reading quiz on Blackboard. But, you get to know the exact questions that will be on the quiz! This is because Professor Buzard gives you a "quiz prep" document on Blackboard that contains each of the questions, so you can mark down the answers as you read. For your first class, you will be asked to read part of [Chapter 1 of Greenlaw](greenlaw_ch1.pdf) and of [Chapter 1 of Remler & Van Ryzin](remler&vanryzin_ch1.pdf). You can reference the first class [quiz prep document](ecn310_class1_quizprep.pdf).
+The final step would be to take the quiz based on how you answered the quiz prep questions.
